@@ -1,3 +1,3 @@
 # hello-world
-first repository
-my username is ibag422
+# first repository
+# my username is ibag422
